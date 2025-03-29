@@ -1,4 +1,6 @@
 name: notion2hugo
+permissions:
+  contents: write
 on:
  schedule:
    - cron: "0 */12 * * *"  #每12小时拉取一次
