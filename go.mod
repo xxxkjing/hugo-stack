@@ -2,4 +2,4 @@ module github.com/CaiJimmy/hugo-theme-stack-starter
 
 go 1.17
 
-require github.com/xxxkjing/blog-stack v3.30.0
+require github.com/xxxkjing/blog-stack v0
